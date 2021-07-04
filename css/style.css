@@ -6,6 +6,7 @@ body {
   display: flex;
   background-image: url("../images/top-banner.png");
   background-repeat: no-repeat;
+  margin-bottom: 150px;
 }
 .T-color {
   color: orange;
@@ -18,7 +19,8 @@ body {
   margin-left: 150px;
 }
 .flaxing img {
-  width: 40em;
+  width: 50em;
+  margin-right: 100px;
 }
 .btn {
   color: white;
@@ -28,4 +30,27 @@ body {
   text-decoration: none;
 }
 
-/* first section css compleate */
+/* first section css complete */
+
+.section-2 {
+  display: flex;
+  background-image: url(../images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.flaxing-2 h1 {
+  font-size: 55px;
+}
+.flaxing-2 p {
+  width: 90%;
+}
+.flaxing-2 img {
+  width: 45em;
+  margin-left: 80px;
+}
+.flaxing-2 {
+  width: 50%;
+  margin-right: 30px;
+}
+
+/* second section css complete */
