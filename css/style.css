@@ -37,6 +37,7 @@ body {
   background-image: url(../images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
+  margin-bottom: 100px;
 }
 .flaxing-2 h1 {
   font-size: 55px;
@@ -54,3 +55,43 @@ body {
 }
 
 /* second section css complete */
+
+.section-111 {
+  margin-bottom: 150px;
+}
+.section-3 {
+  display: flex;
+  background-image: url("../images/exp-bg.png");
+  background-repeat: no-repeat;
+  background-position-y: 200px;
+}
+.exp {
+  font-size: 50px;
+  margin-left: 30px;
+  display: inline;
+}
+.flaxing-3 h1 {
+  font-size: 40px;
+}
+.flaxing-3 {
+  width: 40%;
+  margin: 10% 5%;
+  padding: 30px;
+  box-shadow: 20px 20px 50px gray;
+  border-left: 5px solid;
+  border-radius: 10px;
+  border-image: linear-gradient(tomato, orange);
+  border-image-slice: 1;
+}
+#flaxing-last {
+  border-left: 5px solid;
+  border-image: linear-gradient(black, gray);
+  border-image-slice: 1;
+}
+
+/* last footer section  */
+
+footer p {
+  color: gray;
+  text-align: center;
+}
