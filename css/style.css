@@ -1,0 +1,31 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+.section-1 {
+  display: flex;
+  background-image: url("../images/top-banner.png");
+  background-repeat: no-repeat;
+}
+.T-color {
+  color: orange;
+}
+.flaxing h1 {
+  font-size: 55px;
+}
+.flaxing {
+  width: 50%;
+  margin-left: 150px;
+}
+.flaxing img {
+  width: 40em;
+}
+.btn {
+  color: white;
+  background-image: linear-gradient(tomato, orange);
+  padding: 10px 40px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+/* first section css compleate */
